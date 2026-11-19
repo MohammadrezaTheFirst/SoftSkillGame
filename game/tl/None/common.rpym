@@ -1,0 +1,1536 @@
+﻿
+translate None strings:
+
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new "Click to play the video."
+
+    # renpy/common/00accessibility.rpy:28
+    old "Self-voicing disabled."
+    new "گفتار خودکار غیرفعال است."
+
+    # renpy/common/00accessibility.rpy:29
+    old "Clipboard voicing enabled. "
+    new "گفتار کلیپ‌بورد فعال است."
+
+    # renpy/common/00accessibility.rpy:30
+    old "Self-voicing enabled. "
+    new "گفتار خودکار فعال است."
+
+    # renpy/common/00accessibility.rpy:32
+    old "bar"
+    new "میله"
+
+    # renpy/common/00accessibility.rpy:33
+    old "selected"
+    new "انتخاب شده"
+
+    # renpy/common/00accessibility.rpy:34
+    old "viewport"
+    new "میدان دید"
+
+    # renpy/common/00accessibility.rpy:35
+    old "horizontal scroll"
+    new "اسکرول افقی"
+
+    # renpy/common/00accessibility.rpy:36
+    old "vertical scroll"
+    new "اسکرول عمودی"
+
+    # renpy/common/00accessibility.rpy:37
+    old "activate"
+    new "فعال کردن"
+
+    # renpy/common/00accessibility.rpy:38
+    old "deactivate"
+    new "غیرفعال کردن"
+
+    # renpy/common/00accessibility.rpy:39
+    old "increase"
+    new "افزایش"
+
+    # renpy/common/00accessibility.rpy:40
+    old "decrease"
+    new "کاهش"
+
+    # renpy/common/00accessibility.rpy:134
+    old "Self-Voicing"
+    new "گفتار خودکار"
+
+    # renpy/common/00accessibility.rpy:137
+    old "Self-voicing support is limited when using a touch screen."
+    new "پشتیبانی گفتار خودکار هنگام استفاده از صفحۀ لمسی محدود است."
+
+    # renpy/common/00accessibility.rpy:139
+    old "Off"
+    new "خاموش"
+
+    # renpy/common/00accessibility.rpy:143
+    old "Text-to-speech"
+    new "متن-به-گفتار"
+
+    # renpy/common/00accessibility.rpy:147
+    old "Clipboard"
+    new "کلیپ‌بورد"
+
+    # renpy/common/00accessibility.rpy:151
+    old "Debug"
+    new "اشکال‌زدایی"
+
+    # renpy/common/00accessibility.rpy:155
+    old "Voice Volume"
+    new "بلندی گفتار"
+
+    # renpy/common/00accessibility.rpy:163
+    old "Reset"
+    new "بازنشانی"
+
+    # renpy/common/00accessibility.rpy:167
+    old "Self-Voicing Volume Drop"
+    new "افت صدای گفتار خودکار"
+
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
+    new "Mono Audio"
+
+    # renpy/common/00accessibility.rpy:182
+    old "Enable"
+    new "فعال کردن"
+
+    # renpy/common/00accessibility.rpy:186
+    old "Disable"
+    new "غیرفعال کردن"
+
+    # renpy/common/00accessibility.rpy:198
+    old "Font Override"
+    new "جایگزین فونت"
+
+    # renpy/common/00accessibility.rpy:200
+    old "Default"
+    new "پیش‌فرض"
+
+    # renpy/common/00accessibility.rpy:204
+    old "DejaVu Sans"
+    new "DejaVu Sans"
+
+    # renpy/common/00accessibility.rpy:208
+    old "Opendyslexic"
+    new "Opendyslexic"
+
+    # renpy/common/00accessibility.rpy:212
+    old "High Contrast Text"
+    new "متن با کنتراست بالا"
+
+    # renpy/common/00accessibility.rpy:224
+    old "Text Size Scaling"
+    new "مقیاس اندازۀ فونت"
+
+    # renpy/common/00accessibility.rpy:235
+    old "Line Spacing Scaling"
+    new "مقیاس فاصلۀ خطوط"
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new "Kerning"
+
+    # renpy/common/00accessibility.rpy:267
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "منوی دسترس‌پذیری. از کلیدهای جهت بالا و پایین برای هدایت، و از کلید enter برای فعال کردن دکمه‌ها و میله‌ها استفاده کنید."
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new "Self-Voicing and Audio"
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new "Text"
+
+    # renpy/common/00accessibility.rpy:296
+    old "Return"
+    new "برگشت"
+
+    # renpy/common/00accessibility.rpy:306
+    old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new "تنظیمات داخل این منو برای بهبود دسترس‌پذیری در نظر گرفته شده‌اند. این تنظیمات ممکن است با بعضی از بازی‌ها کار نکنند، و بعضی از ترکیب تنظیمات ممکن است مانع اجرا شدن بازی شوند. این مشکل مربوط به بازی و یا موتور نیست. برای بهترین نتیجه هنگام تغییر فونت، سعی کنید اندازۀ متن را مشابه قبل نگه دارید."
+
+    # renpy/common/00action_file.rpy:26
+    old "{#weekday}Monday"
+    new "دوشنبه"
+
+    # renpy/common/00action_file.rpy:26
+    old "{#weekday}Tuesday"
+    new "سه‌شنبه"
+
+    # renpy/common/00action_file.rpy:26
+    old "{#weekday}Wednesday"
+    new "چهارشنبه"
+
+    # renpy/common/00action_file.rpy:26
+    old "{#weekday}Thursday"
+    new "پنج‌شنبه"
+
+    # renpy/common/00action_file.rpy:26
+    old "{#weekday}Friday"
+    new "جمعه"
+
+    # renpy/common/00action_file.rpy:26
+    old "{#weekday}Saturday"
+    new "شنبه"
+
+    # renpy/common/00action_file.rpy:26
+    old "{#weekday}Sunday"
+    new "یک‌شنبه"
+
+    # renpy/common/00action_file.rpy:37
+    old "{#weekday_short}Mon"
+    new "دو"
+
+    # renpy/common/00action_file.rpy:37
+    old "{#weekday_short}Tue"
+    new "سه"
+
+    # renpy/common/00action_file.rpy:37
+    old "{#weekday_short}Wed"
+    new "چهار"
+
+    # renpy/common/00action_file.rpy:37
+    old "{#weekday_short}Thu"
+    new "پنج"
+
+    # renpy/common/00action_file.rpy:37
+    old "{#weekday_short}Fri"
+    new "جم"
+
+    # renpy/common/00action_file.rpy:37
+    old "{#weekday_short}Sat"
+    new "شن"
+
+    # renpy/common/00action_file.rpy:37
+    old "{#weekday_short}Sun"
+    new "یک"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}January"
+    new "ژانویه"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}February"
+    new "فوریه"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}March"
+    new "مارس"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}April"
+    new "آوریل"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}May"
+    new "مه"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}June"
+    new "ژوئن"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}July"
+    new "ژوئیه"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}August"
+    new "اوت"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}September"
+    new "سپتامبر"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}October"
+    new "اکتبر"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}November"
+    new "نوامبر"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}December"
+    new "دسامبر"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Jan"
+    new "ژان"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Feb"
+    new "فور"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Mar"
+    new "مار"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Apr"
+    new "آور"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}May"
+    new "مه"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Jun"
+    new "ژون"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Jul"
+    new "ژوی"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Aug"
+    new "اوت"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Sep"
+    new "سپت"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Oct"
+    new "اکت"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Nov"
+    new "نوا"
+
+    # renpy/common/00action_file.rpy:63
+    old "{#month_short}Dec"
+    new "دسا"
+
+    # renpy/common/00action_file.rpy:258
+    old "%b %d, %H:%M"
+    new "%b %d, %H:%M"
+
+    # renpy/common/00action_file.rpy:395
+    old "Save slot %s: [text]"
+    new "ذخیرۀ خانۀ %s: [text]"
+
+    # renpy/common/00action_file.rpy:481
+    old "Load slot %s: [text]"
+    new "بارگذاری خانۀ %s: [text]"
+
+    # renpy/common/00action_file.rpy:534
+    old "Delete slot [text]"
+    new "حذف خانۀ %s: [text]"
+
+    # renpy/common/00action_file.rpy:613
+    old "File page auto"
+    new "صفحۀ فایل اتوماتیک"
+
+    # renpy/common/00action_file.rpy:615
+    old "File page quick"
+    new "صفحۀ فایل سریع"
+
+    # renpy/common/00action_file.rpy:617
+    old "File page [text]"
+    new "صفحۀ فایل [text]"
+
+    # renpy/common/00action_file.rpy:675
+    old "Page {}"
+    new "صفحۀ {}"
+
+    # renpy/common/00action_file.rpy:675
+    old "Automatic saves"
+    new "ذخیره‌های خودکار"
+
+    # renpy/common/00action_file.rpy:675
+    old "Quick saves"
+    new "ذخیره‌های سریع"
+
+    # renpy/common/00action_file.rpy:816
+    old "Next file page."
+    new "صفحۀ فایل بعدی."
+
+    # renpy/common/00action_file.rpy:888
+    old "Previous file page."
+    new "صفحۀ فایل قبلی."
+
+    # renpy/common/00action_file.rpy:949
+    old "Quick save complete."
+    new "ذخیرۀ سریع انجام شد."
+
+    # renpy/common/00action_file.rpy:964
+    old "Quick save."
+    new "ذخیرۀ سریع."
+
+    # renpy/common/00action_file.rpy:983
+    old "Quick load."
+    new "بارگذاری سریع."
+
+    # renpy/common/00action_other.rpy:416
+    old "Language [text]"
+    new "زبان [text]"
+
+    # renpy/common/00action_other.rpy:786
+    old "Open [text] directory."
+    new "باز کردن پوشه [text]"
+
+    # renpy/common/00director.rpy:712
+    old "The interactive director is not enabled here."
+    new "کارگردان تعاملی در اینجا فعال نشده است."
+
+    # renpy/common/00director.rpy:1512
+    old "⬆"
+    new "⬆"
+
+    # renpy/common/00director.rpy:1518
+    old "⬇"
+    new "⬇"
+
+    # renpy/common/00director.rpy:1582
+    old "Done"
+    new "تمام"
+
+    # renpy/common/00director.rpy:1592
+    old "(statement)"
+    new "(گزاره)"
+
+    # renpy/common/00director.rpy:1593
+    old "(tag)"
+    new "(تگ)"
+
+    # renpy/common/00director.rpy:1594
+    old "(attributes)"
+    new "(صفات)"
+
+    # renpy/common/00director.rpy:1595
+    old "(transform)"
+    new "(تبدیل)"
+
+    # renpy/common/00director.rpy:1620
+    old "(transition)"
+    new "(گذار)"
+
+    # renpy/common/00director.rpy:1632
+    old "(channel)"
+    new "(کانال)"
+
+    # renpy/common/00director.rpy:1633
+    old "(filename)"
+    new "(نام فایل)"
+
+    # renpy/common/00director.rpy:1662
+    old "Change"
+    new "تغییر"
+
+    # renpy/common/00director.rpy:1664
+    old "Add"
+    new "افزودن"
+
+    # renpy/common/00director.rpy:1667
+    old "Cancel"
+    new "لغو"
+
+    # renpy/common/00director.rpy:1670
+    old "Remove"
+    new "حذف"
+
+    # renpy/common/00director.rpy:1705
+    old "Statement:"
+    new "گزاره (Statement):"
+
+    # renpy/common/00director.rpy:1726
+    old "Tag:"
+    new "تگ (Tag):"
+
+    # renpy/common/00director.rpy:1742
+    old "Attributes:"
+    new "صفات (Attributes):"
+
+    # renpy/common/00director.rpy:1753
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new "برای تغییر حالت صفت کلیک کنید، برای تغییر حالت صفت معکوس راست کلیک کنید."
+
+    # renpy/common/00director.rpy:1765
+    old "Transforms:"
+    new "تبدیلات (Transforms):"
+
+    # renpy/common/00director.rpy:1776
+    old "Click to set transform, right click to add to transform list."
+    new "برای وضع کردن تبدیل کلیک کنید، برای اضافه کردن به لیست تبدیلات راست کلیک کنید."
+
+    # renpy/common/00director.rpy:1777
+    old "Customize director.transforms to add more transforms."
+    new "برای اضافه کردن تبدیلات بیشتر، director.transforms را شخصی‌سازی کنید."
+
+    # renpy/common/00director.rpy:1789
+    old "Behind:"
+    new "پشت:"
+
+    # renpy/common/00director.rpy:1800
+    old "Click to set, right click to add to behind list."
+    new "برای وضع کردن کلیک کنید، برای اضافه کردن به لیست پشت راست کلیک کنید."
+
+    # renpy/common/00director.rpy:1812
+    old "Transition:"
+    new "گذار (Transition):"
+
+    # renpy/common/00director.rpy:1822
+    old "Click to set."
+    new "برای وضع کردن کلیک کنید."
+
+    # renpy/common/00director.rpy:1823
+    old "Customize director.transitions to add more transitions."
+    new "برای اضافه کردن گذارهای بیشتر، director.transitions را شخصی‌سازی کنید."
+
+    # renpy/common/00director.rpy:1835
+    old "Channel:"
+    new "کانال (Channel):"
+
+    # renpy/common/00director.rpy:1846
+    old "Customize director.audio_channels to add more channels."
+    new "برای اضافه کردن کانال‌های بیشتر، director.audio_channels را شخصی‌سازی کنید."
+
+    # renpy/common/00director.rpy:1858
+    old "Audio Filename:"
+    new "نام فایل صوتی:"
+
+    # renpy/common/00gui.rpy:448
+    old "Are you sure?"
+    new "آیا مطمئن هستید؟"
+
+    # renpy/common/00gui.rpy:449
+    old "Are you sure you want to delete this save?"
+    new "آیا مایل به حذف کردن این ذخیره هستید؟"
+
+    # renpy/common/00gui.rpy:450
+    old "Are you sure you want to overwrite your save?"
+    new "آیا مایل به بازنویسی ذخیرۀ خود هستید؟"
+
+    # renpy/common/00gui.rpy:451
+    old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "بارگذاری باعث از دست دادن پیشرفت‌های ذخیره نشده می‌شود.\nآیا مایل به چنین کاری هستید؟"
+
+    # renpy/common/00gui.rpy:452
+    old "Are you sure you want to quit?"
+    new "آیا مایل به خروج هستید؟"
+
+    # renpy/common/00gui.rpy:453
+    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "آیا مایل به برگشت به منوی اصلی هستید؟\nاین کار باعث از دست دادن پیشرفت‌های ذخیره نشده می‌شود."
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new "آیا مایل به ادامه از نقطه‌ای که رها کردید هستید؟"
+
+    # renpy/common/00gui.rpy:455
+    old "Are you sure you want to end the replay?"
+    new "آیا مایل به پایان بازپخش هستید؟"
+
+    # renpy/common/00gui.rpy:456
+    old "Are you sure you want to begin skipping?"
+    new "آیا مایل به شروع به رد کردن هستید؟"
+
+    # renpy/common/00gui.rpy:457
+    old "Are you sure you want to skip to the next choice?"
+    new "آیا مایل به رد کردن تا انتخاب بعدی هستید؟"
+
+    # renpy/common/00gui.rpy:458
+    old "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "آیا مایل به رد کردن دیالوگ دیده نشده تا انتخاب بعدی هستید؟"
+
+    # renpy/common/00gui.rpy:459
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "این ذخیره در یک دستگاه دیگر ساخته شده است. فایل‌های ذخیرۀ ساخته شده با سوءنیت ممکن است به رایانۀ شما آسیب برسانند. آیا به سازندۀ این ذخیره و تمام کسانی که ممکن است فایل را تغییر داده باشند اعتماد دارید؟"
+
+    # renpy/common/00gui.rpy:460
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "آیا به دستگاهی که این ذخیره در آن ساخته شده اعتماد دارید؟ پیشنهاد می‌شود که فقط در صورتی گزینۀ بله را انتخاب کنید که شما تنها کاربر آن دستگاه باشید."
+
+    # renpy/common/00keymap.rpy:325
+    old "Failed to save screenshot as %s."
+    new "ذخیرۀ اسکرین‌شات به عنوان %s ناموفق شد."
+
+    # renpy/common/00keymap.rpy:346
+    old "Saved screenshot as %s."
+    new "اسکرین‌شات به عنوان %s ذخیره شد."
+
+    # renpy/common/00library.rpy:257
+    old "Skip Mode"
+    new "حالت رد کردن"
+
+    # renpy/common/00library.rpy:344
+    old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    new "این برنامه شامل نرم‌افزار آزاد تحت چندین مجوز، شامل MIT License و GNU Lesser General Public License می‌شود. یک لیست کامل از نرم‌افزارها، شامل پیوندهای به کد منبع کامل را می‌توان در {a=https://www.renpy.org/l/license}اینجا{/a} مشاهده کرد."
+
+    # renpy/common/00preferences.rpy:295
+    old "display"
+    new "نمایش (display)"
+
+    # renpy/common/00preferences.rpy:315
+    old "transitions"
+    new "گذارها"
+
+    # renpy/common/00preferences.rpy:324
+    old "skip transitions"
+    new "رد کردن گذارها"
+
+    # renpy/common/00preferences.rpy:326
+    old "video sprites"
+    new "اپرایت‌های ویدیویی"
+
+    # renpy/common/00preferences.rpy:335
+    old "show empty window"
+    new "نمایش پنجرۀ خالی"
+
+    # renpy/common/00preferences.rpy:344
+    old "text speed"
+    new "سرعت متن"
+
+    # renpy/common/00preferences.rpy:352
+    old "joystick"
+    new "اهرمک"
+
+    # renpy/common/00preferences.rpy:352
+    old "joystick..."
+    new "اهرمک..."
+
+    # renpy/common/00preferences.rpy:359
+    old "skip"
+    new "رد کردن"
+
+    # renpy/common/00preferences.rpy:362
+    old "skip unseen [text]"
+    new "رد کردن [text] دیده نشده"
+
+    # renpy/common/00preferences.rpy:367
+    old "skip unseen text"
+    new "رد کردن متن دیده نشده"
+
+    # renpy/common/00preferences.rpy:369
+    old "begin skipping"
+    new "شروع رد کردن"
+
+    # renpy/common/00preferences.rpy:373
+    old "after choices"
+    new "بعد از انتخاب‌ها"
+
+    # renpy/common/00preferences.rpy:380
+    old "skip after choices"
+    new "رد کردن بعد از انتخاب‌ها"
+
+    # renpy/common/00preferences.rpy:382
+    old "auto-forward time"
+    new "زمان عبور خودکار"
+
+    # renpy/common/00preferences.rpy:396
+    old "auto-forward"
+    new "عبور خودکار"
+
+    # renpy/common/00preferences.rpy:403
+    old "Auto forward"
+    new "عبور خودکار"
+
+    # renpy/common/00preferences.rpy:406
+    old "auto-forward after click"
+    new "عبور خودکار بعد از کلیک"
+
+    # renpy/common/00preferences.rpy:415
+    old "automatic move"
+    new "حرکت خودکار"
+
+    # renpy/common/00preferences.rpy:424
+    old "wait for voice"
+    new "انتظار برای گفتار"
+
+    # renpy/common/00preferences.rpy:433
+    old "voice sustain"
+    new "حفظ صوت"
+
+    # renpy/common/00preferences.rpy:442
+    old "self voicing"
+    new "گفتار خودکار"
+
+    # renpy/common/00preferences.rpy:445
+    old "self voicing enable"
+    new "فعال کردن گفتار خودکار"
+
+    # renpy/common/00preferences.rpy:447
+    old "self voicing disable"
+    new "غیرفعال کردن گفتار خودکار"
+
+    # renpy/common/00preferences.rpy:451
+    old "self voicing volume drop"
+    new "افت صدای گفتار خودکار"
+
+    # renpy/common/00preferences.rpy:459
+    old "clipboard voicing"
+    new "گفتار کلیپ‌بورد"
+
+    # renpy/common/00preferences.rpy:462
+    old "clipboard voicing enable"
+    new "فعال کردن گفتار کلیپ‌بورد"
+
+    # renpy/common/00preferences.rpy:464
+    old "clipboard voicing disable"
+    new "غیرفعال کردن گفتار کلیپ‌بورد"
+
+    # renpy/common/00preferences.rpy:468
+    old "debug voicing"
+    new "گفتار اشکال‌زدایی"
+
+    # renpy/common/00preferences.rpy:471
+    old "debug voicing enable"
+    new "فعال کردن گفتار اشکال‌زدایی"
+
+    # renpy/common/00preferences.rpy:473
+    old "debug voicing disable"
+    new "غیرفعال کردن گفتار اشکال‌زدایی"
+
+    # renpy/common/00preferences.rpy:477
+    old "emphasize audio"
+    new "تأکید صوت"
+
+    # renpy/common/00preferences.rpy:486
+    old "rollback side"
+    new "سمت عقب‌گرد"
+
+    # renpy/common/00preferences.rpy:496
+    old "gl powersave"
+    new "حفظ برق gl"
+
+    # renpy/common/00preferences.rpy:502
+    old "gl framerate"
+    new "نرخ فریم gl"
+
+    # renpy/common/00preferences.rpy:505
+    old "gl tearing"
+    new "پارگی gl"
+
+    # renpy/common/00preferences.rpy:508
+    old "font transform"
+    new "تغییر فونت"
+
+    # renpy/common/00preferences.rpy:511
+    old "font size"
+    new "اندازۀ فونت"
+
+    # renpy/common/00preferences.rpy:519
+    old "font line spacing"
+    new "فضای بین خطوط فونت"
+
+    # renpy/common/00preferences.rpy:527
+    old "system cursor"
+    new "مکان‌نمای سیستم"
+
+    # renpy/common/00preferences.rpy:536
+    old "renderer menu"
+    new "منوی رندرر"
+
+    # renpy/common/00preferences.rpy:539
+    old "accessibility menu"
+    new "منوی دسترس‌پذیری"
+
+    # renpy/common/00preferences.rpy:542
+    old "high contrast text"
+    new "متن کنتراست بالا"
+
+    # renpy/common/00preferences.rpy:551
+    old "audio when minimized"
+    new "صوت موقع مینیمایز شدن"
+
+    # renpy/common/00preferences.rpy:560
+    old "audio when unfocused"
+    new "صوت موقع غیرمتمرکز بودن"
+
+    # renpy/common/00preferences.rpy:569
+    old "web cache preload"
+    new "پیش‌بارگذاری حافظۀ نهان وب"
+
+    # renpy/common/00preferences.rpy:584
+    old "voice after game menu"
+    new "صوت بعد از منوی بازی"
+
+    # renpy/common/00preferences.rpy:593
+    old "restore window position"
+    new "بازنشانی موقعیت پنجره"
+
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
+    new "mono audio"
+
+    # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new "font kerning"
+
+    # renpy/common/00preferences.rpy:619
+    old "reset"
+    new "بازنشانی"
+
+    # renpy/common/00preferences.rpy:632
+    old "main volume"
+    new "بلندی اصلی"
+
+    # renpy/common/00preferences.rpy:633
+    old "music volume"
+    new "بلندی موسیقی"
+
+    # renpy/common/00preferences.rpy:634
+    old "sound volume"
+    new "بلندی صوت"
+
+    # renpy/common/00preferences.rpy:635
+    old "voice volume"
+    new "بلندی گفتار"
+
+    # renpy/common/00preferences.rpy:636
+    old "mute main"
+    new "بی‌صدا کردن اصلی"
+
+    # renpy/common/00preferences.rpy:637
+    old "mute music"
+    new "بی‌صدا کردن موسیقی"
+
+    # renpy/common/00preferences.rpy:638
+    old "mute sound"
+    new "بی‌صدا کردن صوت"
+
+    # renpy/common/00preferences.rpy:639
+    old "mute voice"
+    new "بی‌صدا کردن گفتار"
+
+    # renpy/common/00preferences.rpy:640
+    old "mute all"
+    new "بی‌صدا کردن همه"
+
+    # renpy/common/00preferences.rpy:723
+    old "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "گفتار کلیپ‌بورد فعال است. برای غیرفعال کردن 'shift+C' را فشار دهید."
+
+    # renpy/common/00preferences.rpy:725
+    old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+    new "گفتار خودکار می‌گوید \"[renpy.display.tts.last]\". برای غیر فعال کردن 'alt+shift+V' را فشار دهید."
+
+    # renpy/common/00preferences.rpy:727
+    old "Self-voicing enabled. Press 'v' to disable."
+    new "گفتار خودکار فعال است. برای غیرفعال کردن 'v' را فشار دهید."
+
+    # renpy/common/00speechbubble.rpy:420
+    old "Speech Bubble Editor"
+    new "ویرایشگر ابرنویسه"
+
+    # renpy/common/00speechbubble.rpy:425
+    old "(hide)"
+    new "(پنهان کردن)"
+
+    # renpy/common/00speechbubble.rpy:436
+    old "(clear retained bubbles)"
+    new "(پاک کردن ابرهای حفظ شده)"
+
+    # renpy/common/00sync.rpy:70
+    old "Sync downloaded."
+    new "همگام‌سازی دانلود شد."
+
+    # renpy/common/00sync.rpy:184
+    old "Could not connect to the Ren'Py Sync server."
+    new "اتصال به سرور همگام‌سازی Ren'Py ناموفق بود."
+
+    # renpy/common/00sync.rpy:186
+    old "The Ren'Py Sync server timed out."
+    new "زمان اتصال به سرور همگام‌سازی به پایان رسید."
+
+    # renpy/common/00sync.rpy:188
+    old "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "یک خطای نامعلوم هنگام اتصال به سرور همگام‌سازی Ren'Py اتفاق افتاد."
+
+    # renpy/common/00sync.rpy:204
+    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "سرور همگام‌سازی Ren'Py نسخه‌ای از این همگام‌سازی ندارد. شناسۀ همگام‌سازی ممکن است نامعتبر باشد، یا زمان اتصال ممکن است به پایان رسیده باشد."
+
+    # renpy/common/00sync.rpy:305
+    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "لطفاً شناسۀ همگام‌سازی را که ساخته‌اید را وارد کنید.\nبه هیچ‌وجه شناسۀ همگام‌سازی که خودتان نساخته‌اید را وارد نکنید."
+
+    # renpy/common/00sync.rpy:324
+    old "The sync ID is not in the correct format."
+    new "قالب شناسۀ همگام‌سازی نادرست می‌باشد."
+
+    # renpy/common/00sync.rpy:344
+    old "The sync could not be decrypted."
+    new "اطلاعات همگام‌سازی شده موفق به رمزگشایی نشد."
+
+    # renpy/common/00sync.rpy:367
+    old "The sync belongs to a different game."
+    new "این همگام‌سازی مربوط به یک بازی دیگری است."
+
+    # renpy/common/00sync.rpy:372
+    old "The sync contains a file with an invalid name."
+    new "این همگام‌سازی دارای یک فایل با نام نامعتبر می‌باشد."
+
+    # renpy/common/00sync.rpy:425
+    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "این ذخیره‌های شما را به {a=https://sync.renpy.org}سرور همگام‌سازی Ren'Py{/a} آپلود خواهد کرد.\nآیا مایل به ادامه هستید؟"
+
+    # renpy/common/00sync.rpy:433
+    old "Yes"
+    new "بله"
+
+    # renpy/common/00sync.rpy:434
+    old "No"
+    new "خیر"
+
+    # renpy/common/00sync.rpy:457
+    old "Enter Sync ID"
+    new "شناسۀ همگام‌سازی را وارد کنید"
+
+    # renpy/common/00sync.rpy:468
+    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "این به {a=https://sync.renpy.org}سرور همگام‌سازی Ren'Py{/a} متصل خواهد شد."
+
+    # renpy/common/00sync.rpy:498
+    old "Sync Success"
+    new "همگام‌سازی موفق‌آمیز بود"
+
+    # renpy/common/00sync.rpy:501
+    old "The Sync ID is:"
+    new "شناسۀ همگام‌سازی:"
+
+    # renpy/common/00sync.rpy:507
+    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "شما می‌توانید از این شناسه برای دانلود ذخیرۀ خود در یک دستگاه دیگر استفاده کنید.\nاین همگام‌سازی در یک ساعت منقضی خواهد شد.\nهمگام‌سازی Ren'Py توسط {a=https://www.renpy.org/sponsors.html}اسپانسور های Ren'Py{/a} پشتیبانی شده است."
+
+    # renpy/common/00sync.rpy:511
+    old "Continue"
+    new "ادامه"
+
+    # renpy/common/00sync.rpy:536
+    old "Sync Error"
+    new "خطای همگام‌سازی"
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new "شناسۀ ترجمه: [identifier]"
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " [tl.filename]:[tl.linenumber] را ترجمه می‌کند"
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}در کلیپ‌بورد ذخیره شد.{/color}"
+
+    # renpy/common/00iap.rpy:231
+    old "Contacting App Store\nPlease Wait..."
+    new "در حال اتصال به فروشگاه برنامه\nلطفاً شکیبا باشید..."
+
+    # renpy/common/00updater.rpy:415
+    old "No update methods found."
+    new "هیچ‌روش به‌روزرسانی پیدا نشد."
+
+    # renpy/common/00updater.rpy:462
+    old "Could not download file list: "
+    new "لیست فایل موفق به دانلود نشد: "
+
+    # renpy/common/00updater.rpy:465
+    old "File list digest does not match."
+    new "لیست فایل digest مطابقت ندارد."
+
+    # renpy/common/00updater.rpy:675
+    old "An error is being simulated."
+    new "یک خطا در حال شبیه‌سازی است."
+
+    # renpy/common/00updater.rpy:863
+    old "Either this project does not support updating, or the update status file was deleted."
+    new "این پروژه از به‌روزرسانی پشتیبانی نمی‌کند، یا فایل وضعیت به‌روزرسانی حذف شده است."
+
+    # renpy/common/00updater.rpy:877
+    old "This account does not have permission to perform an update."
+    new "این حساب اجازۀ شروع یک به‌روزرسانی را ندارد."
+
+    # renpy/common/00updater.rpy:880
+    old "This account does not have permission to write the update log."
+    new "این حساب اجازۀ نوشتن گزارش به‌روزرسانی را ندارد."
+
+    # renpy/common/00updater.rpy:966
+    old "Could not verify update signature."
+    new "امضای به‌روزرسانی موفق به تأیید نشد."
+
+    # renpy/common/00updater.rpy:1289
+    old "The update file was not downloaded."
+    new "فایل به‌روزرسانی دانلود نشد."
+
+    # renpy/common/00updater.rpy:1307
+    old "The update file does not have the correct digest - it may have been corrupted."
+    new "فایل به‌روزرسانی دارای digest درست نمی‌باشد - این فایل ممکن است خراب شده باشد."
+
+    # renpy/common/00updater.rpy:1457
+    old "While unpacking {}, unknown type {}."
+    new "هنگام باز کردن {}، نوع نامعلوم {}."
+
+    # renpy/common/00updater.rpy:1928
+    old "Updater"
+    new "به روزرساننده"
+
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
+    new "An error has occurred:"
+
+    # renpy/common/00updater.rpy:1937
+    old "Checking for updates."
+    new "در حال چک برای به‌روزرسانی‌ها."
+
+    # renpy/common/00updater.rpy:1939
+    old "This program is up to date."
+    new "این برنامه به روز است."
+
+    # renpy/common/00updater.rpy:1941
+    old "[u.version] is available. Do you want to install it?"
+    new "[u.version] موجود است. آیا مایل به نصب آن هستید؟"
+
+    # renpy/common/00updater.rpy:1943
+    old "Preparing to download the updates."
+    new "در حال آماده‌سازی برای دانلود به‌روزرسانی‌ها."
+
+    # renpy/common/00updater.rpy:1945
+    old "Downloading the updates."
+    new "در حال دانلود به‌روزرسانی‌ها."
+
+    # renpy/common/00updater.rpy:1947
+    old "Unpacking the updates."
+    new "در حال باز کردن به‌روزرسانی‌ها."
+
+    # renpy/common/00updater.rpy:1949
+    old "Finishing up."
+    new "در حال اتمام."
+
+    # renpy/common/00updater.rpy:1951
+    old "The updates have been installed. The program will restart."
+    new "به‌روزرسانی‌ها نصب شدند. برنامه مجدداً باز خواهد شد."
+
+    # renpy/common/00updater.rpy:1953
+    old "The updates have been installed."
+    new "به‌روزرسانی‌ها نصب شدند."
+
+    # renpy/common/00updater.rpy:1955
+    old "The updates were cancelled."
+    new "به‌روزرسانی‌ها لغو شدند."
+
+    # renpy/common/00updater.rpy:1970
+    old "Proceed"
+    new "ادامه"
+
+    # renpy/common/00updater.rpy:1986
+    old "Preparing to download the game data."
+    new "در حال آماده‌سازی برای دانلود اطلاعات بازی."
+
+    # renpy/common/00updater.rpy:1988
+    old "Downloading the game data."
+    new "در حال دانلود اطلاعات بازی."
+
+    # renpy/common/00updater.rpy:1990
+    old "The game data has been downloaded."
+    new "اطلاعات بازی دانلود شد."
+
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
+    new "An error occurred when trying to download game data:"
+
+    # renpy/common/00updater.rpy:1997
+    old "This game cannot be run until the game data has been downloaded."
+    new "این بازی را تا زمانی که اطلاعات بازی دانلود شود، نمی‌توان اجرا کرد."
+
+    # renpy/common/00updater.rpy:2004
+    old "Retry"
+    new "تلاش مجدد"
+
+    # renpy/common/00compat.rpy:467
+    old "Fullscreen"
+    new "تمام‌صفحه"
+
+    # renpy/common/00gallery.rpy:676
+    old "Image [index] of [count] locked."
+    new "[index] تصویر از [count] قفل است."
+
+    # renpy/common/00gallery.rpy:696
+    old "prev"
+    new "قبلی"
+
+    # renpy/common/00gallery.rpy:697
+    old "next"
+    new "بعدی"
+
+    # renpy/common/00gallery.rpy:698
+    old "slideshow"
+    new "نمایش اسلاید"
+
+    # renpy/common/00gallery.rpy:699
+    old "return"
+    new "برگشت"
+
+    # renpy/common/00gltest.rpy:89
+    old "Renderer"
+    new "رندرر"
+
+    # renpy/common/00gltest.rpy:91
+    old "Automatically Choose"
+    new "انتخاب خودکار"
+
+    # renpy/common/00gltest.rpy:96
+    old "Force GL2 Renderer"
+    new "تحمیل رندرر GL2"
+
+    # renpy/common/00gltest.rpy:101
+    old "Force ANGLE2 Renderer"
+    new "تحمیل رندرر ANGLE2"
+
+    # renpy/common/00gltest.rpy:106
+    old "Force GLES2 Renderer"
+    new "تحمیل رندرر GLES2"
+
+    # renpy/common/00gltest.rpy:110
+    old "Gamepad"
+    new "دستۀ بازی"
+
+    # renpy/common/00gltest.rpy:112
+    old "Enable (No Blocklist)"
+    new "فعال کردن (بدون لیست انسداد)"
+
+    # renpy/common/00gltest.rpy:126
+    old "Calibrate"
+    new "واسنجی"
+
+    # renpy/common/00gltest.rpy:135
+    old "Powersave"
+    new "حفظ برق"
+
+    # renpy/common/00gltest.rpy:145
+    old "Framerate"
+    new "نرخ فریم"
+
+    # renpy/common/00gltest.rpy:147
+    old "Screen"
+    new "صفحه"
+
+    # renpy/common/00gltest.rpy:151
+    old "60"
+    new "۶۰"
+
+    # renpy/common/00gltest.rpy:155
+    old "30"
+    new "۳۰"
+
+    # renpy/common/00gltest.rpy:159
+    old "Tearing"
+    new "پارگی"
+
+    # renpy/common/00gltest.rpy:171
+    old "Changes will take effect the next time this program is run."
+    new "تغییرات در اجرای بعدی این برنامه صورت خواهند گرفت."
+
+    # renpy/common/00gltest.rpy:178
+    old "Quit"
+    new "خروج"
+
+    # renpy/common/00gltest.rpy:207
+    old "Performance Warning"
+    new "هشدار کارآیی"
+
+    # renpy/common/00gltest.rpy:212
+    old "This computer is using software rendering."
+    new "این رایانه از رندر نرم‌افزاری استفاده می‌کند."
+
+    # renpy/common/00gltest.rpy:214
+    old "This game requires use of GL2 that can't be initialised."
+    new "این بازی به استفاده از GL2 نیاز دارد که قابل شروع نیست."
+
+    # renpy/common/00gltest.rpy:216
+    old "This computer has a problem displaying graphics: [problem]."
+    new "این رایانه در نمایش گرافیک‌ها مشکلی دارد: [problem]."
+
+    # renpy/common/00gltest.rpy:220
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    new "درایورهای گرافیکی ممکن است به روز نباشند یا به درستی عمل نمی‌کنند. این ممکن است سبب کندی یا اشتباه در نمایش گرافیکی شود."
+
+    # renpy/common/00gltest.rpy:224
+    old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    new "فایل {a=edit:1:log.txt}log.txt{/a} ممکن است دارای اطلاعاتی باشد که به شما در مشخص کردن مشکل رایانه‌تان کمک کند."
+
+    # renpy/common/00gltest.rpy:229
+    old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+    new "اطلاعات بیشتر در مورد چگونگی رفع این مشکل را می‌توان در {a=[url]}مستند{/a} پیدا کرد."
+
+    # renpy/common/00gltest.rpy:234
+    old "Continue, Show this warning again"
+    new "ادامه، نمایش دوبارۀ این هشدار"
+
+    # renpy/common/00gltest.rpy:238
+    old "Continue, Don't show warning again"
+    new "ادامه، عدم نمایش دوبارۀ این هشدار"
+
+    # renpy/common/00gltest.rpy:246
+    old "Change render options"
+    new "تغییر تنظیمات رندر"
+
+    # renpy/common/00gamepad.rpy:33
+    old "Select Gamepad to Calibrate"
+    new "دستۀ بازی را برای واسنجی کردن انتخاب کنید"
+
+    # renpy/common/00gamepad.rpy:36
+    old "No Gamepads Available"
+    new "هیچ‌دستۀ بازی موجود نیست"
+
+    # renpy/common/00gamepad.rpy:56
+    old "Calibrating [name] ([i]/[total])"
+    new "در حال واسنجی [name] ([i]/[total])"
+
+    # renpy/common/00gamepad.rpy:60
+    old "Press or move the '[control!s]' [kind]."
+    new "لطفاً [kind] '[control!s]' را فشار یا حرکت دهید."
+
+    # renpy/common/00gamepad.rpy:70
+    old "Skip (A)"
+    new "رد کردن (A)"
+
+    # renpy/common/00gamepad.rpy:73
+    old "Back (B)"
+    new "عقب (B)"
+
+    # renpy/common/_errorhandling.rpym:764
+    old "Open"
+    new "باز کردن"
+
+    # renpy/common/_errorhandling.rpym:766
+    old "Opens the traceback.txt file in a text editor."
+    new "فایل traceback.txt را در یک ویرایشگر متن باز می‌کند."
+
+    # renpy/common/_errorhandling.rpym:768
+    old "Copy BBCode"
+    new "کپی کردن بی‌بی‌کد"
+
+    # renpy/common/_errorhandling.rpym:770
+    old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "فایل traceback.txt را به صورت بی‌بی‌کد برای تالارهای گفت‌وگو نظیر https://lemmasoft.renai.us/ در کلیپ‌بورد ذخیره می‌کند."
+
+    # renpy/common/_errorhandling.rpym:772
+    old "Copy Markdown"
+    new "کپی کردن مارک‌داون"
+
+    # renpy/common/_errorhandling.rpym:774
+    old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    new "فایل traceback.txt را به صورت مارک‌داون برای دیسکورد به کلیپ‌بورد کپی می‌کند."
+
+    # renpy/common/_errorhandling.rpym:806
+    old "An exception has occurred."
+    new "یک استثناء رخ داد."
+
+    # renpy/common/_errorhandling.rpym:835
+    old "Rollback"
+    new "عقب‌گرد"
+
+    # renpy/common/_errorhandling.rpym:837
+    old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "تلاش به عقب‌گرد رفتن به یک زمان قبل‌تر می‌کند و به شما این اجازه را می‌دهد که ذخیره کرده یا یک گزینۀ دیگر را انتخاب بکنید."
+
+    # renpy/common/_errorhandling.rpym:840
+    old "Ignore"
+    new "نادیده گرفتن"
+
+    # renpy/common/_errorhandling.rpym:844
+    old "Ignores the exception, allowing you to continue."
+    new "استثناء را نادیده می‌گیرد و به شما اجازۀ ادامه دادن را می‌دهد."
+
+    # renpy/common/_errorhandling.rpym:846
+    old "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    new "استثناء را نادیده می‌گیرد و به شما اجازۀ ادامه دادن را می‌دهد. این معمولاً سبب خطاهای بیشتر می‌شود."
+
+    # renpy/common/_errorhandling.rpym:850
+    old "Reload"
+    new "بارگذاری مجدد"
+
+    # renpy/common/_errorhandling.rpym:852
+    old "Reloads the game from disk, saving and restoring game state if possible."
+    new "بازی را از دیسک مجدداً بارگذاری می‌کند و در صورت امکان، حالت بازی را ذخیره و بازیابی می‌کند."
+
+    # renpy/common/_errorhandling.rpym:855
+    old "Console"
+    new "کنسول"
+
+    # renpy/common/_errorhandling.rpym:857
+    old "Opens a console to allow debugging the problem."
+    new "یک کنسول برای اشکال‌زدایی مشکل باز می‌کند."
+
+    # renpy/common/_errorhandling.rpym:870
+    old "Quits the game."
+    new "از بازی خارج می‌شود."
+
+    # renpy/common/_errorhandling.rpym:892
+    old "Parsing the script failed."
+    new "تجزیۀ اسکریپ ناموفق بود."
+
+    # renpy/common/_developer/developer.rpym:39
+    old "Developer Menu"
+    new "منوی توسعه‌دهنده"
+
+    # renpy/common/_developer/developer.rpym:44
+    old "Interactive Director (D)"
+    new "کارگردان تعاملی (D)"
+
+    # renpy/common/_developer/developer.rpym:46
+    old "Reload Game (Shift+R)"
+    new "بارگذاری مجدد بازی (Shift+R)"
+
+    # renpy/common/_developer/developer.rpym:48
+    old "Console (Shift+O)"
+    new "کنسول (Shift+O)"
+
+    # renpy/common/_developer/developer.rpym:50
+    old "Variable Viewer"
+    new "نمای متغیرها"
+
+    # renpy/common/_developer/developer.rpym:52
+    old "Persistent Viewer"
+    new "نمای پایا"
+
+    # renpy/common/_developer/developer.rpym:54
+    old "Image Location Picker"
+    new "انتخاب کنندۀ مکان عکس"
+
+    # renpy/common/_developer/developer.rpym:56
+    old "Filename List"
+    new "لیست نام فایل‌ها"
+
+    # renpy/common/_developer/developer.rpym:60
+    old "Show Image Load Log (F4)"
+    new "نمایش گزارش بارگذاری عکس (F4)"
+
+    # renpy/common/_developer/developer.rpym:63
+    old "Hide Image Load Log (F4)"
+    new "پنهان کردن گزارش بارگذاری عکس (F4)"
+
+    # renpy/common/_developer/developer.rpym:66
+    old "Image Attributes"
+    new "صفات عکس"
+
+    # renpy/common/_developer/developer.rpym:70
+    old "Show Translation Info"
+    new "نمایش اطلاعات ترجمه"
+
+    # renpy/common/_developer/developer.rpym:73
+    old "Hide Translation Info"
+    new "پنهان کردن اطلاعات ترجمه"
+
+    # renpy/common/_developer/developer.rpym:78
+    old "Speech Bubble Editor (Shift+B)"
+    new "ویرایشگر ابرنویسه (Shift+B)"
+
+    # renpy/common/_developer/developer.rpym:82
+    old "Show Filename and Line"
+    new "نمایش نام فایل و خط"
+
+    # renpy/common/_developer/developer.rpym:85
+    old "Hide Filename and Line"
+    new "پنهان کردن نام فایل و خط"
+
+    # renpy/common/_developer/developer.rpym:141
+    old "Layer [l]:"
+    new "لایۀ [l]:"
+
+    # renpy/common/_developer/developer.rpym:144
+    old "    (transforms: [', '.join(transform_list)])"
+    new "    (transforms: [', '.join(transform_list)])"
+
+    # renpy/common/_developer/developer.rpym:148
+    old "    [name!q] [attributes!q] (hidden)"
+    new "    [name!q] [attributes!q] (پنهان)"
+
+    # renpy/common/_developer/developer.rpym:152
+    old "    [name!q] [attributes!q]"
+    new "    [name!q] [attributes!q]"
+
+    # renpy/common/_developer/developer.rpym:205
+    old "Nothing to inspect."
+    new "چیزی برای بازبینی وجود ندارد."
+
+    # renpy/common/_developer/developer.rpym:216
+    old "Hide deleted"
+    new "پنهان کردن حذف شده‌ها"
+
+    # renpy/common/_developer/developer.rpym:216
+    old "Show deleted"
+    new "نمایش حذف شده‌ها"
+
+    # renpy/common/_developer/developer.rpym:367
+    old "Rectangle copied to clipboard."
+    new "مستطیل به کلیپ‌بورد ذخیره شد."
+
+    # renpy/common/_developer/developer.rpym:370
+    old "Position copied to clipboard."
+    new "موقعیت به کلیپ‌بورد ذخیره شد."
+
+    # renpy/common/_developer/developer.rpym:382
+    old "Rectangle: %r"
+    new "مستطیل: %r"
+
+    # renpy/common/_developer/developer.rpym:385
+    old "Mouse position: %r"
+    new "موقعیت موشواره: %r"
+
+    # renpy/common/_developer/developer.rpym:390
+    old "Right-click or escape to quit."
+    new "برای خروج راست کلیک یا escape را فشار دهید."
+
+    # renpy/common/_developer/developer.rpym:440
+    old "Type to filter: "
+    new "برای فیلتر کردن تایپ کنید: "
+
+    # renpy/common/_developer/developer.rpym:556
+    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    new "بافت‌ها: [tex_count] ([tex_size_mb:.1f] MB)"
+
+    # renpy/common/_developer/developer.rpym:560
+    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "حافطۀ نهان تصاویر: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+
+    # renpy/common/_developer/developer.rpym:570
+    old "✔ "
+    new "✔ "
+
+    # renpy/common/_developer/developer.rpym:573
+    old "✘ "
+    new "✘ "
+
+    # renpy/common/_developer/developer.rpym:578
+    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    new "\n{color=#cfc}✔ تصویر پیش‌بینی شده (خوب){/color}\n{color=#fcc}✘ تصویر پیش‌بینی نشده (بد){/color}\n{color=#fff}برای حرکت دادن بکشید.{/color}"
+
+    # renpy/common/_developer/developer.rpym:628
+    old "Click to open in editor."
+    new "برای باز کردن در ویرایشگر کلیک کنید."
+
+    # renpy/common/_developer/inspector.rpym:39
+    old "Displayable Inspector"
+    new "بازبین Displayable"
+
+    # renpy/common/_developer/inspector.rpym:62
+    old "Size"
+    new "اندازه"
+
+    # renpy/common/_developer/inspector.rpym:66
+    old "Style"
+    new "سبک"
+
+    # renpy/common/_developer/inspector.rpym:72
+    old "Location"
+    new "مکان"
+
+    # renpy/common/_developer/inspector.rpym:124
+    old "Inspecting Styles of [displayable_name!q]"
+    new "در حال بازبینی سبک [displayable_name!q]"
+
+    # renpy/common/_developer/inspector.rpym:141
+    old "displayable:"
+    new "Displayable:"
+
+    # renpy/common/_developer/inspector.rpym:147
+    old "        (no properties affect the displayable)"
+    new "        (هیچ‌ویژگی بر displayable تأثیرگذار نیست)"
+
+    # renpy/common/_developer/inspector.rpym:149
+    old "        (default properties omitted)"
+    new "        (ویژگی‌های پیش‌فرض ذکر نشده)"
+
+    # renpy/common/_developer/inspector.rpym:187
+    old "<repr() failed>"
+    new "<repr() failed>"
+
+    # renpy/common/00console.rpy:501
+    old "Press <esc> to exit console. Type help for help.\n"
+    new "برای خروج از کنسول <esc> را فشار دهید. برای راهنما help تایپ کنید.\n"
+
+    # renpy/common/00console.rpy:505
+    old "Ren'Py script enabled."
+    new "اسکریپت Ren'Py غیرفعال است."
+
+    # renpy/common/00console.rpy:507
+    old "Ren'Py script disabled."
+    new "اسکریپت Ren'Py فعال است."
+
+    # renpy/common/00console.rpy:690
+    old "The console is using short representations. To disable this, type 'long', and to re-enable, type 'short'"
+    new "کنسول در حال استفاده از نمایشهای کوتاه است. برای غیرفعال کردن این حالت، 'long' تایپ کنید، و برای فعال کردن مجدد، 'short' تایپ کنید."
+
+    # renpy/common/00console.rpy:762
+    old "help: show this help\n help <expr>: show signature and documentation of <expr>"
+    new "help: نمایش این راهنما\n help <expr>: نمایش امضاء و مستند <expr>"
+
+    # renpy/common/00console.rpy:786
+    old "Help may display undocumented functions. Please check that the function or\nclass you want to use is documented.\n\n"
+    new "راهنما ممکن است توابع مستندسازی نشده‌ای را نمایش دهد. لطفاً مستندسازی شده بودن تابع یا\n کلاسی که می‌خواهید استفاده کنید را بررسی کنید.\n\n"
+
+    # renpy/common/00console.rpy:795
+    old "commands:\n"
+    new "دستورها:\n"
+
+    # renpy/common/00console.rpy:805
+    old " <renpy script statement>: run the statement\n"
+    new " <renpy script statement>: اجرا کردن گزاره\n"
+
+    # renpy/common/00console.rpy:807
+    old " <python expression or statement>: run the expression or statement"
+    new " <python expression or statement>: اجرا کردن عبارت یا گزاره"
+
+    # renpy/common/00console.rpy:815
+    old "clear: clear the console history"
+    new "clear: پاک کردن تاریخچۀ کنسول"
+
+    # renpy/common/00console.rpy:819
+    old "exit: exit the console"
+    new "exit: خروج از کنسول"
+
+    # renpy/common/00console.rpy:827
+    old "stack: print the return stack"
+    new "stack: چاپ کردن پشتۀ برگشت"
+
+    # renpy/common/00console.rpy:849
+    old "load <slot>: loads the game from slot"
+    new "load <slot>: بارگذاری بازی از خانه"
+
+    # renpy/common/00console.rpy:862
+    old "save <slot>: saves the game in slot"
+    new "save <slot>: ذخیرۀ بازی در خانه"
+
+    # renpy/common/00console.rpy:873
+    old "reload: reloads the game, refreshing the scripts"
+    new "reload: بارگذاری کردن مجدد بازی، باعث تازه‌سازی اسکریپت‌ها می‌شود"
+
+    # renpy/common/00console.rpy:881
+    old "watch <expression>: watch a python expression\n watch short: makes the representation of traced expressions short (default)\n watch long: makes the representation of traced expressions as is"
+    new "watch <expression>: تماشا کردن یک عبارت پایتون\n watch short: نمایش عبارات ردیابی شده را کوتاه می‌کند (پیش‌فرض)\n watch long: نمایش عبارات ردیابی شده را به همان صورت که هست انجام می‌دهد"
+
+    # renpy/common/00console.rpy:918
+    old "unwatch <expression>: stop watching an expression"
+    new "unwatch <expression>: توقف نماشا کردن یک عبارت"
+
+    # renpy/common/00console.rpy:964
+    old "unwatchall: stop watching all expressions"
+    new "unwatchall: توقف تماشا کردن همۀ عبارات"
+
+    # renpy/common/00console.rpy:985
+    old "jump <label>: jumps to label"
+    new "jump <label>: پرش به برچسب"
+
+    # renpy/common/00console.rpy:1001
+    old "short: Shorten the representation of objects on the console (default)."
+    new "short: کوتاه‌سازی نمایش اشیاء در کنسول (پیش‌فرض)."
+
+    # renpy/common/00console.rpy:1005
+    old "long: Print the full representation of objects on the console."
+    new "long: چاپ کردن نمایش کامل اشیاء در کنسول."
+
+    # renpy/common/00console.rpy:1009
+    old "escape: Enables escaping of unicode symbols in unicode strings."
+    new "escape: فعال کردن رهایی نمادهای یونیکد در رشته‌های یونیکد."
+
+    # renpy/common/00console.rpy:1013
+    old "unescape: Disables escaping of unicode symbols in unicode strings and print it as is (default)."
+    new "unescape: غیرفعال کردن رهایی نمادهای یونیکد در رشته‌های یونیکد و چاپ به همان صورت که هست (پیش‌فرض)"
+
+define gui.system_font = 'Vazirmatn-RD-UI-Light.ttf'
