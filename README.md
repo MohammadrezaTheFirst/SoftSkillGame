@@ -13,6 +13,18 @@ The game puts the player in a simulated workplace environment where communicatio
 
 Players must navigate different situations by choosing the most appropriate responses. Their decisions determine whether they successfully progress in their professional journey.
 
+
+## 📸 Screenshots
+
+| Main Menu | Interview |
+|---|---|
+| ![Main Menu](screenshots/Menu.png) | ![Interview](screenshots/interview.png) |
+
+### Gameplay
+
+![Gameplay](screenshots/amirabdolmaleki.png)
+
+
 ## ✨ Features
 
 - **Interactive Dialogues:** Make decisions through branching dialogue choices.
